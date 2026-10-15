@@ -1,0 +1,6 @@
+{
+  "name": "5. Sınıf Bilişim ve Yazılım Maarif Yıllık Planı",
+  "description": "Türkiye Yüzyılı Maarif Modeli (TYMM) uyumlu 5. Sınıf Bilişim Teknolojileri ve Yazılım dersi çerçeve yıllık planı, 36 haftalık müfredat dağılımı, süreç odaklı ölçme rubrikleri ve MEB resmi çıktı aracı.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
